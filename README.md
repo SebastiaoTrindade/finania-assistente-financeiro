@@ -45,3 +45,33 @@ Além do código, a pasta `docs` contém PRD, prompt final e reflexão. A pasta 
 
 ## Aviso
 Projeto educacional. Não realiza movimentações financeiras nem fornece aconselhamento financeiro profissional.
+
+---
+
+## 📸 Demonstração do Projeto
+
+### 📊 Dashboard Financeiro
+
+Visão geral das receitas, despesas, saldo e indicadores financeiros do usuário.
+
+![Dashboard do FinanIA](screenshots/01-dashboard-finania.png)
+
+### 💳 Controle de Movimentações
+
+Registro e acompanhamento das receitas e despesas de forma simples e organizada.
+
+![Movimentações do FinanIA](screenshots/02-movimentacoes.png)
+
+### 🎯 Meta Financeira
+
+Acompanhamento dos objetivos financeiros e do progresso da economia.
+
+![Meta Financeira do FinanIA](screenshots/03-meta-financeira.png)
+
+### 🤖 FinanIA Copilot
+
+Assistente financeiro conversacional que utiliza os dados registrados para auxiliar o usuário na organização de suas finanças.
+
+![FinanIA Copilot](screenshots/04-finania-copilot.png)
+
+---
